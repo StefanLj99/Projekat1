@@ -1,0 +1,66 @@
+﻿<Window x:Class="Stefan_Ljubinkovic_PZ1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Stefan_Ljubinkovic_PZ1"
+        mc:Ignorable="d"
+        Background="LightBlue"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+
+        <Ellipse Fill="Blue" Height="24" Canvas.Left="10" Stroke="Black" Canvas.Top="386" Width="24"/>
+        <Ellipse  Height="24" Canvas.Left="220" Stroke="Black" Canvas.Top="386" Width="24">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="/images.png" Stretch="Fill"></ImageBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Ellipse Fill="Red" Height="24" Canvas.Left="442" Stroke="Black" Canvas.Top="386" Width="24"/>
+        <Label x:Name="label" Content="Substation" Canvas.Left="39" Canvas.Top="388" Width="65" Height="22" FontSize="10"/>
+        <Label x:Name="label1" Content="Node" Canvas.Left="482" Canvas.Top="386" Width="65" Height="22" FontSize="10"/>
+        <Label x:Name="label2" Content="Switch" Canvas.Left="249" Canvas.Top="388" Width="65" Height="22" FontSize="10"/>
+        <Button x:Name="button" Content="LoadXML" Canvas.Left="668" Canvas.Top="376" Width="103" Height="34" Click="button_Click"/>
+        <Menu x:Name="Menu"  Width="100" Height="35" Canvas.Left="563" Canvas.Top="376">
+            <MenuItem Header="Change Colour">
+                <xctk:ColorPicker Name="ClrPcker_Background" SelectedColorChanged="ClrPcker_Background_SelectedColorChanged_1"></xctk:ColorPicker>
+            </MenuItem>
+            <MenuItem Header="Image">
+                <Button Click="Button_Click_1">Change</Button>
+            </MenuItem>
+        </Menu>
+        <Slider x:Name="slider" Canvas.Left="10" Canvas.Top="358" Width="761"/>
+        <ScrollViewer Height="316" Canvas.Top="37" Width="784" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
+            <Canvas Name="mainCanvas" Height="5000" Width="5000" Background="LightYellow" MouseRightButtonDown="mainCanvas_MouseRightButtonDown" MouseLeftButtonDown="mainCanvas_MouseLeftButtonDown">
+                <Canvas.LayoutTransform>
+                    <ScaleTransform ScaleX="{Binding ElementName=slider, Path=Value}"
+                                        ScaleY="{Binding ElementName=slider, Path=Value}"/>
+                </Canvas.LayoutTransform>
+            </Canvas>
+        </ScrollViewer>
+        <Button x:Name="btnEllipse" Content="Ellipse" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Click="btnEllipse_Click"/>
+        <Button x:Name="btnPolygon" Content="Polygon" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="75" Click="btnPolygon_Click"/>
+        <Button x:Name="btnText" Content="Text" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="150" Click="btnText_Click"/>
+        <Button x:Name="btnUndo" Content="Undo" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="225" Click="btnUndo_Click"/>
+        <Button x:Name="btnRedo" Content="Redo" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="300" Click="btnRedo_Click"/>
+        <Button x:Name="btnClear" Content="Clear" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="555" Click="btnClear_Click"/>
+        <Button x:Name="btcSwitches" Content="Switches" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="630" Click="btcSwitches_Click"/>
+        <Button x:Name="btnActive" Content="Not_Actve" Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="705" Click="btnActive_Click"/>
+        <Button x:Name="btnScreen" Content="ScreenShot"  Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="375" Click="btnScreen_Click_1"/>
+        <Menu Canvas.Left="450" Height="37">
+            <MenuItem Header="Browse"  Width="50">
+                <Button x:Name="btnLoadXMLS" Content="XMLPicker"  Width="70" RenderTransformOrigin="0.166,-2.564" Height="37" Canvas.Left="490" Click="btnLoadXMLS_Click"/>
+            </MenuItem>
+            <MenuItem Header="List" Width="50">
+                <ComboBox x:Name="listXMLS" ItemsSource="{Binding xmls}" SelectionChanged="listXMLS_SelectionChanged">
+
+                </ComboBox>
+            </MenuItem>
+        </Menu>
+
+
+
+
+
+    </Canvas>
+</Window>

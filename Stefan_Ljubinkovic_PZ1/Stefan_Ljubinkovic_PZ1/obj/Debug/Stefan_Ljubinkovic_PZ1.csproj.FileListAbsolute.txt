@@ -1,0 +1,96 @@
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.AssemblyReference.cache
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.g.cs
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\App.g.cs
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.cache
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.lref
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe.config
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.pdb
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.baml
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.g.resources
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.Properties.Resources.resources
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.GenerateResource.cache
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.exe
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.pdb
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.g.cs
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.g.cs
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.g.cs
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.baml
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.baml
+D:\4 GOD\SEMESTAR 2\GRAFIKA\GRAFIKA - STEFAN\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.baml
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.g.cs
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.g.cs
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.g.cs
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.g.cs
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\App.g.cs
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.cache
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.lref
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe.config
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.pdb
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.baml
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.baml
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.baml
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.baml
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.g.resources
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.Properties.Resources.resources
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.GenerateResource.cache
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.CopyComplete
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.exe
+C:\Users\petar\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.pdb
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe.config
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.exe
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Stefan_Ljubinkovic_PZ1.pdb
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.g.cs
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.g.cs
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.g.cs
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\App.g.cs
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.cache
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1_MarkupCompile.lref
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\EllipseProperties.baml
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\MainWindow.baml
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\PolygonProperties.baml
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\TextProperties.baml
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.g.resources
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.csproj.CopyComplete
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.exe
+C:\Users\Stefan\Desktop\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\Stefan_Ljubinkovic_PZ1\obj\Debug\Stefan_Ljubinkovic_PZ1.pdb
